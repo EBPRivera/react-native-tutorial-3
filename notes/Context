@@ -1,0 +1,4 @@
+Context is like props, difference being you can move information from a parent
+to a nested child. More complicated to setup
+
+Elements inside custom components is passed to the child component as a 'children' prop
